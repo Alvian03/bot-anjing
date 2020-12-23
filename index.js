@@ -5,7 +5,7 @@ const {
     Mimetype
 } = require('@adiwajshing/baileys')
 const { color, bgcolor } = require('./lib/color')
-const { help } = require('./src/help')
+const { help } = require('./lib/help')
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
@@ -563,7 +563,7 @@ async function starts() {
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (args.length < 1) return reply('Hmmmm')
 					if (Number(args[0]) === 1) {
-						if (isWelkom) return reply('Kan udh aktif,,kan ngegas jadinya)')
+						if (isWelkom) return reply('Kan udh aktif bosskuh)')
 						welkom.push(from)
 						fs.writeFileSync('./src/welkom.json', JSON.stringify(welkom))
 						reply('Sukses mengaktifkan fitur welcome di group ini ✔️')
