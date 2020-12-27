@@ -1,6 +1,6 @@
 const help = (prefix) => { 
 	return `                 
-╔═ 〘 ♥BABUBOT♥ 〙══╗
+╔═ 〘♥ *BABUBOT* ♥〙═╗
 ╚═════════════════╝ 
 
 ╔ ═〘  *INFO*  〙═╗
