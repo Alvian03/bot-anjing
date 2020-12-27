@@ -25,7 +25,7 @@ const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
             + 'FN:Vian💞\n' // MENDING LU TOBAT SU!
-            + 'ORG:Creator BABUBOT;\n' // KASIH CREDITS GUA SU!!!
+            + 'ORG:Owner BABUBOT;\n' // KASIH CREDITS GUA SU!!!
             + 'TEL;type=CELL;type=VOICE;waid=62895414533737:+62 895-4145-33737\n' // JANGAN KEK BABI SU
             + 'END:VCARD'
 prefix = '!'
