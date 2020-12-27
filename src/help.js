@@ -98,7 +98,7 @@ const help = (prefix) => {
 ╔═〘 *OTHER* 〙═╗
 🌹 *${prefix}ytsearch*
 🌹 *${prefix}listadmin*
-🌹 *${prefix}report [kirim laporan]
+🌹 *${prefix}report* [kirim laporan]
 🌹 *${prefix}blocklist*
 🌹 *${prefix}simi*
 🌹 *${prefix}wait*
