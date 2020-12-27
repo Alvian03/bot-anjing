@@ -1,19 +1,19 @@
 const help = (prefix) => { 
 	return `                 
-╔═ 〘 ♥BABUBOT♥ 〙══╗
+╔═ 〘 ♥ *BABUBOT* ♥ 〙══╗
 ╚════════════════════╝ 
 
-╔ ═〘 OWNER COMMAND 〙═╗
+╔ ═〘 *OWNER COMMAND* 〙═╗
 🌹 *${prefix}bc*
 🌹 *${prefix}block*
 🌹 *${prefix}unblock*
 ╚ ═════════════╝
-╔ ═〘 STICKER COMMAND 〙╗
+╔ ═〘 *STICKER COMMAND* 〙╗
 🌹 *${prefix}sticker*
 🌹 *${prefix}tsticker*
 🌹 *${prefix}nulis*
 ╚ ═════════════╝
-╔ ═〘 UPDATE COMMAND 〙╗
+╔ ═〘 *UPDATE COMMAND* 〙╗
 🌹 *${prefix}text3d*
 🌹 *${prefix}ninjalogo*
 🌹 *${prefix}quotes*
@@ -35,7 +35,7 @@ const help = (prefix) => {
 🌹 *${prefix}artinama <nama>*
 🌹 *${prefix}ramalhp <nomor>*
 ╚═════════════╝
-╔〘 COMMAND NSFW 〙╗
+╔〘 *COMMAND NSFW* 〙╗
 🌹 *${prefix}loli*
 🌹 *${prefix}waifu*
 🌹 *${prefix}randomhentai*
@@ -44,12 +44,12 @@ const help = (prefix) => {
 🌹 *${prefix}nsfwneko*
 🌹 *${prefix}loli*
 ╚═════════════╝
-╔═〘 COMMAND DOWNLOADER 〙╗
+╔═〘 *COMMAND DOWNLOADER* 〙╗
 🌹 *ytsearch* [search yt]
 🌹 *ytmp3* [link]
 🌹 *tiktok* [link]
 ╚═════════════╝
-╔═〘 GROUB ONLY 〙═╗
+╔═〘 *GROUB ONLY* 〙═╗
 🌹 *${prefix}add* [62xxx]
 🌹 *${prefix}kick* [tag]
 🌹 *${prefix}setpp*
@@ -62,7 +62,7 @@ const help = (prefix) => {
 🌹 *${prefix}groupinfo*
 ╚ ═════════════╝
 
-╔═〘 𝙊𝙒𝙉𝙀𝙍 〙═╗
+╔═〘 *OWNER* 〙═╗
 🌹 *${prefix}bc* 
 🌹 *${prefix}leave*
 🌹 *${prefix}clearall*
@@ -73,7 +73,7 @@ const help = (prefix) => {
 🌹 *${prefix}getses*
 ╚═════════════╝
 
-╔═〘 𝙊𝙏𝙃𝙀𝙍 〙═╗
+╔═〘 *OTHER* 〙═╗
 🌹 *${prefix}ytsearch*
 🌹 *${prefix}listadmin*
 🌹 *${prefix}blocklist*
