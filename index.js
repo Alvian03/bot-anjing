@@ -75,7 +75,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Halo @${num.split('@')[0]}\nSelamat datang di group " ${groupName} " Jangan Lupa INTRO, moga betah y tod>>`
+				teks = `Halo @${num.split('@')[0]}\nSelamat datang di group *${mdata.subject}* Jangan Lupa INTRO, moga betah y tod>>`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
