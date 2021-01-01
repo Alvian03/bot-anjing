@@ -1,7 +1,7 @@
 const help = (prefix) => { 
 	return `                 
 ╔═ 〘 ♥BABUBOT♥ 〙══╗
-╚══════════════════╝ 
+╚═════════════════╝ 
 
 ╔ ═〘  *INFO*  〙═╗
 🌹 *${prefix}owner*
