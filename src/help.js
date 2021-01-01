@@ -7,7 +7,7 @@ const help = (prefix) => {
 🌹 *${prefix}owner*
 🌹 *${prefix}info*
 🌹 *${prefix}donasi*
-🌹 *${prefix}speed*
+🌹 *${prefix}ping*
 ╚ ═════════════╝
 ╔ ═〘 *OWNER COMMAND* 〙═╗
 🌹 *${prefix}bc*
@@ -20,7 +20,7 @@ const help = (prefix) => {
 🌹 *${prefix}nulis*
 ╚ ═════════════╝
 ╔ ═〘 *BABU COMMAND*〙╗
-🌹 *${prefix}gtts*
+🌹 *${prefix}tts*
 🌹 *${prefix}text3d*
 🌹 *${prefix}ninjalogo*
 🌹 *${prefix}quotes*
